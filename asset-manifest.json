@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bl2-lesson/static/css/main.412fc565.css",
+    "main.js": "/bl2-lesson/static/js/main.5d51792c.js",
+    "index.html": "/bl2-lesson/index.html",
+    "main.412fc565.css.map": "/bl2-lesson/static/css/main.412fc565.css.map",
+    "main.5d51792c.js.map": "/bl2-lesson/static/js/main.5d51792c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412fc565.css",
+    "static/js/main.5d51792c.js"
+  ]
+}
